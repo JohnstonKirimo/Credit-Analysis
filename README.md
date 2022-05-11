@@ -1,8 +1,8 @@
 ##### Sample credit analysis to assess customer value and associated risk potential 
 
-###### data dictionary
-category / Subcategory: Merchant’s industry
-name: name of the merchant
+###### Data dictionary
+- category / Subcategory: Merchant’s industry
+- name: name of the merchant
 merchant_id: Unique identifier for the merchant
 actual_repayment_pct: actual percentage of loan volume that is repaid
 predicted_repayment_pct: predicted percentage of loan volume that is repaid
